@@ -1,0 +1,5 @@
+# 입력을 받습니다.
+inch = input("입력> ")
+
+# 출력합니다.
+print(inch, "inch는", int(inch)*2.54, "cm")
