@@ -2,4 +2,4 @@
 radian = input("입력> ")
 
 # 출력합니다.
-print("반지름이", radian, "인 원의 둘레와 넓이는 각각", int(radian)*2*3.14, ",", int(radian)**2*3.14, "입니다")
+print("반지름이", radian, "인 원의 둘레와 넓이는 각각", float(radian)*2*3.14, ",", int(radian)**2*3.14, "입니다")

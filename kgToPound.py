@@ -2,4 +2,4 @@
 kg = input("입력> ")
 
 # 출력합니다.
-print(kg, "kg는", int(kg)*2.205, "lb입니다")
+print(kg, "kg는", float(kg)*2.205, "lb입니다")

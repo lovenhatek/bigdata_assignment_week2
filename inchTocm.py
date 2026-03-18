@@ -2,4 +2,4 @@
 inch = input("입력> ")
 
 # 출력합니다.
-print(inch, "inch는", int(inch)*2.54, "cm")
+print(inch, "inch는", float(inch)*2.54, "cm")
